@@ -1,2 +1,8 @@
-# CC219-TP-TF-2024-1
-Repositorio para el Trabajo Parcial y Final de Aplicaciones de Data Science - Ciclo 7
+# Trabajo Parcial - Aplicaciones de Data Science
+
+## Objetivo del trabajo
+
+## Integrantes
+## Dataset
+## Conclusiones
+## Licencia
